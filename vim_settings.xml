@@ -5,8 +5,11 @@
     <filemarks />
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>tree/master/src.git</text>
+      <register name="1" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2Jvb3RsZXNzeGZseS9oaXRjaGVkRGVza3RvcF9BUEkuZ2l0Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2Jvb3RsZXNzeGZseS9oaXRjaGVkRGVza3RvcF9BUEkuZ2l0Cg==</text>
       </register>
       <register name="-" type="4">
         <text>tree/master/src.git</text>
