@@ -1,8 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Spring2017/COMP 4320 - Networks/UDP/src/UDPClient/Client.java" timestamp="1492528773995">
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="12" />
+        <mark key="." line="61" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1492520126737">
         <mark key="[" line="0" column="0" />
       </file>
@@ -10,13 +15,16 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2Jvb3RsZXNzeGZseS9oaXRjaGVkRGVza3RvcF9BUEkuZ2l0Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaWVudFNvY2tldC5zZW5kKHNlbmRQYWNrZXQpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text>rece</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2Jvb3RsZXNzeGZseS9oaXRjaGVkRGVza3RvcF9BUEkuZ2l0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tree/master/src.git</text>
+        <text>rece</text>
       </register>
     </registers>
     <search>
@@ -32,6 +40,15 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
